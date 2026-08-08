@@ -12,10 +12,10 @@ Built in Power BI Desktop. Used Power Query to clean survey response data — ha
 
 <b>Key components</b>:
 
-Gender split (130 male / 70 female) via icon-based KPI cards
-Managerial Support and Work-Life Balance by Department (bar/area charts)
-Avg Work Stress by Gender and by Department (bar charts)
-Avg Workload by Department with 100% stacked reference
-Ribbon chart ranking departments across five stress dimensions
+- Gender split (130 male / 70 female) via icon-based KPI cards
+- Managerial Support and Work-Life Balance by Department (bar/area charts)
+- Avg Work Stress by Gender and by Department (bar charts)
+- Avg Workload by Department with 100% stacked reference
+- Ribbon chart ranking departments across five stress dimensions
 
 <b>Purpose</b>: Gives HR a diagnostic view to identify which departments and stress factors need intervention first.
